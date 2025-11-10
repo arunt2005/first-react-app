@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  margin-top: 100px;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+}
+
+h1 {
+  color: #2e86de;
+}
+
+p {
+  font-size: 18px;
+}
